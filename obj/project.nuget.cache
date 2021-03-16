@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8f3cp3C9diwNqmjF/HkdJ1YCny8br+yEY8O9Ysd3Hmb++wtBqF3hQemG57HzZCe3dBXVUxuBHU2LQMfIrzxdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FAU\\Documents\\admin-perso\\sources\\WaterWorldRL\\WaterWorldRL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FAU\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\FAU\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\FAU\\.nuget\\packages\\sadconsole\\8.99.3\\sadconsole.8.99.3.nupkg.sha512"
+  ],
+  "logs": []
+}
